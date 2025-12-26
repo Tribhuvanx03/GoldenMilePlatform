@@ -1,0 +1,1 @@
+This folder contains the python notebook file used for feature engineering on the dataset (data/raw/bengaluru_house_prices.csv) to yield the final workable dataset (data/processed/BangaloreDataMod.csv)
