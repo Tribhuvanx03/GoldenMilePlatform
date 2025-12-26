@@ -119,7 +119,7 @@ class InvestmentAnalyzer:
         )
 
     def _get_mock_analysis(self, property_data, ml_prediction):
-        # (Same logic as your original code)
+
         return {"recommendation": "Mock Analysis (No API Key)"}
 
     def _summarize_rag_context(self, retrieved_docs):
