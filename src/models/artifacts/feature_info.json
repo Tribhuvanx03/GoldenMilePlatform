@@ -1,0 +1,20 @@
+{
+  "categorical_features": [
+    "location",
+    "property_type"
+  ],
+  "numerical_features": [
+    "total_sqft",
+    "bath",
+    "bhk",
+    "amenities_score"
+  ],
+  "target_column": "price",
+  "best_model": "XGBoost",
+  "all_models": [
+    "RandomForest",
+    "GradientBoosting",
+    "XGBoost",
+    "LightGBM"
+  ]
+}
