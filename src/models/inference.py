@@ -18,7 +18,7 @@ class PropertyPricePredictor:
     Simple property price predictor using the trained pipeline.
     """
     
-    def __init__(self, artifacts_dir: str = "/project/workspace/GoldenMile/src/models/artifacts"):
+    def __init__(self, artifacts_dir: str = "src/models/artifacts"):
         """
         Initialize predictor with trained artifacts.
         
